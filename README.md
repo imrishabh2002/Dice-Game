@@ -1,2 +1,2 @@
 # Dice-Game
-A Dice game using html css and javascript.
+A Dice game <br>using html css and javascript.
